@@ -13,7 +13,7 @@ authorAvatar: 'https://avatars3.githubusercontent.com/u/314088?s=140&v=4'
 
 This example demonstrates how to setup a [Nest](https://github.com/nestjs/nest) application.
 
-## Use Cases
+## Use Cases.
 
 - Setup & deploy a [Nest Application starter](https://github.com/nestjs/typescript-starter)
 
