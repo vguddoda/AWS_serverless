@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
-const markdownMagic = require('markdown-magic'); // eslint-disable-line
-const globby = require('markdown-magic').globby; // eslint-disable-line.
+const markdownMagic = require('markdown-magic');
+const globby = require('markdown-magic').globby; 
 
 const toTitleCase = (str) => { // eslint-disable-line
   return str.replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
